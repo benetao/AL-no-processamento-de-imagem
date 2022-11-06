@@ -1,0 +1,39 @@
+A análise do modelo SI proposto é a seguinte:
+
+di/dt = 0.3i(1-i/100)
+
+Pontos de equilíbrio:
+
+0.3i = 0, 1-i/100 = 0
+
+portanto: i = 0, i = 100
+
+Para i < 0:
+
+i < 0,
+0.3i < 0,
+i/100 < 0,
+-i/100 > 0,
+1 - i/100 > 1 > 0,
+
+portanto, para i < 0, 0.3i(1-i/100) < 0, ou seja, di/dt < 0.
+
+Para 0 < i < 100:
+
+0 < i < 100,
+0 < 0.3i < 30,
+0 < i/100 < 1,
+0 > -i/100 > -1,
+1 > 1 - i/100 > 0,
+
+portanto, para 0 < i < 100, 0.3i(1-i/100) > 0, ou seja, di/dt > 0.
+
+Para i > 100:
+
+i > 100,
+0.3i > 30 > 0,
+i/100 > 1,
+-i/100 < -1,
+1 - i/100 < 0,
+
+portanto, para i > 100, 0.3i(1-i/100) < 0, ou seja, di/dt < 0.
