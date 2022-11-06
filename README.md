@@ -9,22 +9,19 @@ Trabalho da matéria de Álgebra Linear II da Ilum Escola de Ciência.
 <p align="justify">
 Esse repositório tem como intuito demonstrar o processo metodológico utilizado para o desenvolvimento da pesquisa. Inicialmente, os desenvolvedores definiram um objeto de estudo de interesse comum, entre os temas apresentados pelo professor, e posteriormente, dividiram as tarefas do trabalho. Como citado, o objeto de estudo é Processamento de Imagens por meio de conceitos estudados na disciplina de álgebra linear.</p>
 <p align="justify">
-Este projeto foi elaborado pelas estudantes durante o segundo semestre de graduação da Ilum - Escola de Ciência, para a disciplina de Álgebra Linear II. O grupo desenvolvedor é composto pelas estudantes: </p>
-<p>:heavy_check_mark: Eduarda Veiga Carvalho  </p>
-<p> :heavy_check_mark: Gabriel Xavier Pereira </p>
-<p> :heavy_check_mark: Isabela Bento Beneti </p>
-<p> :heavy_check_mark: Ygor Fagundes Ruas </p>
+Este projeto foi elaborado pelas estudantes durante o segundo semestre de graduação da Ilum - Escola de Ciência, para a disciplina de Álgebra Linear II. O grupo desenvolvedor é composto pelos estudantes: </p>
+<p>✨ Eduarda Veiga Carvalho  </p>
+<p> 🔑 Gabriel Xavier Pereira </p>
+<p> 🐱‍🏍 Isabela Bento Beneti </p>
+<p> 💪 Ygor Fagundes Ruas </p>
 
 ## Processo Metodológico
 <details><summary><b>Objeto de Análise</b></summary>
 <p align="justify">
-Durante a primeira aula, discutimos a respeito das áreas em comum que nos interessavam, e percebemos que nossos interesses convergiam para as áreas ecológicas e sociais. Por isso, decidimos explorar um tema relacionado à área socioambiental.
+Primeiramente, discutimos a respeito das áreas em comum que nos interessavam, e percebemos que todos nós tinhamos interesse em entender mais as aplicações de Álgebra Linear em processamento de imagem, visto que esse assungo é de extrema importância na área da pesquisa. Afinal, imagens geradas por microscópios- como microscópio óptico bifocal, de fluorecência, eletrônico de varredura, entre outros- precisam ser processadas para obtenção de informações relevantes.
 </p>
 <p align="justify">
-Tendo isso em mente, analisamos algumas das bases disponibilizadas no arquivo "Material de Estudo" e nos interessamos pelas APIs e pelas Databases do INPE. A partir disso, passamos a desenvolver a ideia de um projeto que relacionava as queimadas na vegetação brasileira com outros fatores, tais como precipitação e quantidades de dias sem chuva.
-</p>
-<p align="justify">
-Por fim, decidimos que, a partir desses dados e fatores analisados, tentaríamos fazer uma previsão de focos de incêndio pelo método de regressão linear, utilizando Machine Learning.
+Por fim, decidimos que, a partir...............................
 </p>
 </details>
 <details><summary><b>Recortes</b></summary>
